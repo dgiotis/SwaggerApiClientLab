@@ -19,7 +19,7 @@ public class ClientGenerator
             ClassName = "CustomApiClient",
             CSharpGeneratorSettings =
             {
-                Namespace = "MyClientNamespace"
+                Namespace = "CustomNamespace"
             }
         };
 
