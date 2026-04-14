@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwaggerApiClientLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+292fc849084d3b2ad9760b4a0f0df72ab11c67c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c467b27ad3ea4baaba0deaf8481f4a4614f59d4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwaggerApiClientLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwaggerApiClientLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
